@@ -17,7 +17,7 @@ body:
   - type: textarea
     attributes:
       label: Additional context
-      description: Anything else that may be useful, such as logs or configuration files.
+      description: System information, logs or configuration files (if applicable).
     validations:
       required: false
   - type: markdown
